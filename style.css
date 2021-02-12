@@ -1,0 +1,15 @@
+.carousel-bg{
+    background-color: #fceae8;
+}
+.carousel{
+    border-radius: 10px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.price{
+    color: #ff16ff
+}
+.align-items-center{
+    padding-left: 50px;
+}
